@@ -1,5 +1,3 @@
-
-
 class Vector:
     def __init__(self, lst):
         self.values = lst
